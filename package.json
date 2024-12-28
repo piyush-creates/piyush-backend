@@ -1,0 +1,14 @@
+{
+  "name": "backend-setup",
+  "version": "1.0.0",
+  "description": "set up of beckend with chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "growth"
+  ],
+  "author": "Piyush JI",
+  "license": "ISC"
+}
